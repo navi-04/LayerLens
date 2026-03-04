@@ -1,10 +1,10 @@
 Metadata-Version: 2.4
 Name: layerlens
-Version: 0.1.0
+Version: 0.1.1
 Summary: A library for layer-by-layer explainability of deep learning models
 Home-page: https://github.com/navi-04/layerlens
 Author: navi-04
-Author-email: LayerLens Team <info@layerlens.ai>
+Author-email: navi-04 <naveenrajthiyagarajan6@gmail.com>
 License: MIT
 Project-URL: Homepage, https://github.com/navi-04/LayerLens
 Project-URL: Documentation, https://github.com/navi-04/LayerLens/blob/main/USAGE.md
@@ -186,11 +186,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use LayerLens in your research, please cite:
 
 ```bibtex
-@software{layerlens2024,
+@software{layerlens,
   title = {LayerLens: Layer-by-Layer Explainability for Deep Learning},
-  author = {LayerLens Team},
-  year = {2024},
-  url = {https://github.com/your-username/LayerLens}
+  author = {navi-04},
+  year = {2025},
+  url = {https://github.com/navi-04/LayerLens}
 }
 ```
 D:/GitHub/LayerLens/.venv/Scripts/python.exe -m jupyter notebook mnist_demo.ipynb

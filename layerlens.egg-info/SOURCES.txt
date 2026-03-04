@@ -17,6 +17,7 @@ examples/mnist_demo.ipynb
 examples/transformer_nlp_demo.ipynb
 examples/.ipynb_checkpoints/mnist_demo-checkpoint.ipynb
 layerlens/__init__.py
+layerlens-0.1.0/layerlens/visualization/__pycache__/layer_graph.cpython-313.pyc
 layerlens.egg-info/PKG-INFO
 layerlens.egg-info/SOURCES.txt
 layerlens.egg-info/dependency_links.txt
